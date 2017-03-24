@@ -1,1 +1,6 @@
-//some c stuff
+#include <stdio.h>
+
+int main(void)
+{
+  return 0; 
+}
